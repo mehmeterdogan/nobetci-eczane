@@ -5,9 +5,9 @@ Herhangi bir türde çıktı almak için type parametresine json veya xml değer
 
 Ücretlendirme
 
-Kıbrıs dahil tüm Türkiye için aylık 25 tl
-Sadece bir il için 5 tl
-Birden (min. 3 il) fazla il için ilk başı 2.5 tl
+Kıbrıs dahil tüm Türkiye için aylık 25 tl.
+Sadece bir il için 5 tl.
+Birden (min. 3 il) fazla il için ilk başı 2.5 tl.
 
 Detaylı bilgi için 
 Website: https://eczaneleri.net/
